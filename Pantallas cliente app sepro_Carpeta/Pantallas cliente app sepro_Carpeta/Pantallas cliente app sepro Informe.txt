@@ -1,0 +1,410 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Pantallas cliente app sepro.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 1125 px x 2360 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Bebas Neue Regular (OTF)
+Bebas Neue Bold (OTF)
+HP Simplified (OTF)
+HP Simplified Bold (OTF)
+HP Simplified Bold Italic (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /App sepro/Captura de pantalla 2021-08-08 a la(s) 13.00.20
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 3326K, 793 por 1074 p’xeles
+Dimensiones: 1273,003 por 1724,092 puntos 
+Resoluci—n: 44,851 por 44,851 p’xeles por pulgada
+
+
+/Volumes/Jean /App sepro/Captura de pantalla 2021-08-12 a la(s) 20.55.53
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 3108K, 1344 por 592 p’xeles
+Dimensiones: 900 por 396,429 puntos 
+Resoluci—n: 107,52 por 107,52 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /App sepro/Captura de pantalla 2021-08-08 a la(s) 15.23.17
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 4943K, 953 por 1328 p’xeles
+Dimensiones: 1709,539 por 2382,233 puntos 
+Resoluci—n: 40,137 por 40,137 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 866,999 por 432,967 puntos 
+Resoluci—n: 67,516 por 67,516 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /App sepro/aceptamos-1.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 539K, 832 por 166 p’xeles
+Dimensiones: 832 por 166 puntos 
+Resoluci—n: 72 por 72 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 866,999 por 432,967 puntos 
+Resoluci—n: 67,516 por 67,516 p’xeles por pulgada
+
+
+/Volumes/Jean /App sepro/Captura de pantalla 2021-08-08 a la(s) 13.00.20
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 3326K, 793 por 1074 p’xeles
+Dimensiones: 1741,674 por 2358,837 puntos 
+Resoluci—n: 32,782 por 32,782 p’xeles por pulgada
+
+
+/Volumes/Jean /App sepro/Captura de pantalla 2021-08-08 a la(s) 13.00.20
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 3326K, 793 por 1074 p’xeles
+Dimensiones: 1273,003 por 1724,092 puntos 
+Resoluci—n: 44,851 por 44,851 p’xeles por pulgada
+
+
+/Volumes/Jean /Seproamerica 2020/Logo seproamerica transparente.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1289K, 813 por 406 p’xeles
+Dimensiones: 466,833 por 233,129 puntos 
+Resoluci—n: 125,39 por 125,39 p’xeles por pulgada
